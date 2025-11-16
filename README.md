@@ -74,6 +74,15 @@ All 9 notebooks from the intensive, covering building production-ready AI agents
   - Production readiness checklist
   - Monitoring and maintenance in production
 
+
+## 🎯 Kaggle Agents Intensive Capstone Project
+
+Submission for the Google x Kaggle **Agents Intensive - Capstone Project** competition.
+
+- **Competition:** [Agents Intensive - Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project)
+- **Submission Status:** In Progress
+- **Focus:** Building production-ready AI agents with Gemini and Agent Development Kit
+- **Track:** [Select one of: Agents for Good, Enterprise Agents, Concierge Agents, or Freestyle]
 ## 🛠️ Technologies & Tools
 
 - **Google Gemini API** - Large Language Model
